@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sentinel Dump</string>
+    <string name="service_desc">Diagnóstico: vuelca el árbol de la pantalla actual a un archivo JSON. No interactúa con ninguna app.</string>
+</resources>
